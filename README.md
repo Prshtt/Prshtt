@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning full stack, MERN Stack 🚀 react.js react native, redux, cybersecurity & DSA
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me prshttmgkwd@gmail.com
-- 😄 Pronouns: 
+- 😄 Pronouns: he
 - ⚡ Fun fact: I'm too lazy 🦥 but creative 🚀 ✨ 
 
 <!---
