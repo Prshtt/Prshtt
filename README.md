@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Prshtt
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning full stack, MERN Stack 🚀 react.js react native, redux, cybersecurity & DSA
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on https://www.instagram.com/prshttm_gkwd
 - 📫 How to reach me prshttmgkwd@gmail.com
 - 😄 Pronouns: he
 - ⚡ Fun fact: I'm too lazy 🦥 but creative 🚀 ✨ 
